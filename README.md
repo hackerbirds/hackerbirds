@@ -1,6 +1,6 @@
 ## welcome
 
-i dabble in just about everything:
+i dabble in just about everything, but especially security:
 
 ### apps
 - [Flap](https://flap.it.com): secure & simple p2p file transfer app
