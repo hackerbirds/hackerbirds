@@ -3,7 +3,7 @@
 i dabble in just about everything, but especially security:
 
 ### apps
-- [Flap](https://github.com/hackerbirds/fetch): opinionated macOS app launcher built to be really fucking fast
+- [Fetch](https://github.com/hackerbirds/fetch): opinionated macOS app launcher built to be really fucking fast
 - [Flap](https://flap.it.com): secure & simple p2p file transfer app
 - [Licks!](https://github.com/chipshifter/licks): encrypted messenger based on MLS
 - [quill](https://github.com/hackerbirds/quill): easy & configurable static site builder, that we use [for our blog](https://hackerbirds.neocities.org)
